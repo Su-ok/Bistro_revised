@@ -1,6 +1,6 @@
 # Bistro_revised
 
-- NOte: Use `Ctrl+Click` on Windows/Linux or `Cmd+Click` on MacOS to get redirected to new tab.
+- NOte: Just do `Ctrl+Click` on Windows/Linux or `Cmd+Click` on MacOS while clicking the link to open it in a new tab.
 - Published site: [David Chu's China Bistro](https://su-ok.github.io/coursera-test/module5-solution/).
 - Course Page: [HTML, CSS, and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
 - Special thanks to Prof. [Yaakov Chaikin](https://clearlydecoded.com/).
